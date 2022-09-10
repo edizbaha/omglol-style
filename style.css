@@ -86,6 +86,10 @@ a:active {
 	color: #FFE066;
 }
 
+.fa-location-dot {
+	color: #FFE066;
+}
+
 /* Additional theming for OMGEX (https://github.com/litdevs/omgex) */
 
 .fa-clock {
