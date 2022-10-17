@@ -4,7 +4,7 @@ Theme: omg.lol Special
 Author: Ediz Baha (@edizbaha)
 License: MIT
 Version: 1.0
-Description: omg.lol Special - This theme is inspired by the new design of the omg.lol site.
+Description: omg.lol Special - This theme is inspired by the design of the omg.lol.
 
 */
 
@@ -75,6 +75,10 @@ a:active {
 }
 
 .fa-badge-check {
+	color: #74C0FC !important; /* important is needed to override inline style*/
+}
+
+.omg-verified {
 	color: #74C0FC !important; /* important is needed to override inline style*/
 }
 
