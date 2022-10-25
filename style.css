@@ -8,8 +8,8 @@ Description: omg.lol Special - This theme is inspired by the design of the omg.l
 
 */
 
-@import url('https://static.omg.lol/type/font-honey.css');
-@import url('https://static.omg.lol/type/font-lato-regular.css');
+@import url('https://omg.cache.lol/type/font-honey.css');
+@import url('https://omg.cache.lol/type/font-lato-regular.css');
 
 :root {
     --verified: #f783ac !important;
