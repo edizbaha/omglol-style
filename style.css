@@ -12,16 +12,16 @@ Description: omg.lol Special - This theme is inspired by the design of the omg.l
 @import url('https://omg.cache.lol/type/font-lato-regular.css');
 
 :root {
-    --verified: #f783ac !important;
+        --verified: #f783ac !important;
 }
 
 
 * {
-    font-family: 'Lato', sans-serif;
+        font-family: 'Lato', sans-serif;
 }
 
 h1, h2, h3 {
-    font-family: 'VC Honey Deck', sans-serif;
+        font-family: 'VC Honey Deck', sans-serif;
 }
 
 body {
