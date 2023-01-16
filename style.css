@@ -58,6 +58,10 @@ a:active {
 	color: #A5A5A5;
 }
 
+hr {
+        background: #495057;
+}
+
 #footer a:link, #footer a:visited, #footer a:hover, #footer a:active {
 	color: #A5A5A5;
 }
