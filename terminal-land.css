@@ -9,8 +9,6 @@ Description: Terminal Land - This theme is inspired by the design of the termina
 */
 
 @import url('https://cdn.cache.lol/type/berkeley-mono/berkeley-mono.css');
-@import url('https://omg.cache.lol/type/font-honey.css');
-@import url('https://omg.cache.lol/type/font-lato-regular.css');
 
 :root {
         --verified: #B2F2BB !important;
