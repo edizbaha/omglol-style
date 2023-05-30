@@ -30,8 +30,7 @@ Description: Rad.Dad - This theme is inspired by the design of the rad.dad.
     font-family: 'Konsole', sans-serif;
 }
 
-h2,
-h3 {
+h2, h3 {
     color: var(--text);
     font-family: 'Konsole', sans-serif;
 }
